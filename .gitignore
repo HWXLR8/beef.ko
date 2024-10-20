@@ -1,0 +1,13 @@
+.Module.symvers.cmd
+.beef.ko.cmd
+.beef.mod.cmd
+.beef.mod.o.cmd
+.beef.o.cmd
+.modules.order.cmd
+Module.symvers
+beef.ko
+beef.mod
+beef.mod.c
+beef.mod.o
+beef.o
+modules.order
